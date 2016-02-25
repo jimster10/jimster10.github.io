@@ -1,29 +1,42 @@
-body{
-	font-family: "Marker Felt","Times New Roman", fantasy;
-	color:#00222;
-       }
+h2 {
+  text-align: center;
+}
 
 h1 {
-	font-size: 1.3em;
-	text-align:center;
-     }
+  text-align: center;
+}
 
-table {
-	margin-left:auto;
-	margin-right:auto;
-	text-align:left;
-	border-collapse: collapse;
-	cellspacing: 0 px;
-         }
+h1 {
+  background-color: #0000FF;
+  color: red;
+}
 
-td {
-	border: 1px solid #ffffff;
-	text-align:center;
-	background-color:#9FB6CD; 
-    }
-
-th {
-	text-align:center;
-	color:#ffffff;
-	background-color:#003366;
-   }
+h2 {
+  background-color: #FF0000;
+  color: blue;
+}
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  th {
+    background-color: #0000FF;
+    color: red;
+  }
+  tr {
+    background-color: #FF0000;
+    color: blue;
+  }
+  tr:hover {
+    background-color: #0000FF
+  }
+  div {
+    text-align: justify;
+  }
+  <table style="text-align:center;"> h1 {
+    color: blue;
+  }
+  h2 {
+    color: ;
+}
