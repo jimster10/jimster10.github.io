@@ -26,7 +26,7 @@ h2 {
   }
   tr {
     background-color: #FF0000;
-    color: blue;
+    color: white;
   }
   tr:hover {
     background-color: #0000FF
@@ -40,3 +40,4 @@ h2 {
   h2 {
     color: ;
 }
+
